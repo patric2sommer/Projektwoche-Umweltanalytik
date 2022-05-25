@@ -1,0 +1,52 @@
+Familie;Gattung;Spezies;Plot 1;Phaenologie_1;Plot 2;Phaenologie_2;Plot 3;Phaenologie_3;Plot 4;Phaenologie_4;Plot 5;Phaenologie_5;Plot 6;Phaenologie_6;Plot 7;Phaenologie_7;Plot 8;Phaenologie_8;Plot 9;Phaenologie_9;Feuchtezahl;Wechselfeuchte;Reaktionszahl;Naehrstoffzahl;Lichtzahl;Temperaturzahl;Kontinentalitaetszahl
+Asteraceae;Achillea;millefolium (aggr.);0.5;0;;0;;0;5;0;;0;;0;12;0;12;0;;0;2;NA;3;3;4;3;3
+Poaceae;Agrostis;stolonifera;;0;;0;;0;;0;;0;;0;1;0;;0;;0;4;w+;4;4;3;3;3
+Lamiaceae;Ajuga ;reptans;0.5;1;;0;;0;;0;;0;;0;;0;;0;;0;3;NA;3;3;3;3.5;3
+Poaceae;Alopecurus (c.f.);pratensis;;0;;0;;0;;0;30;0;20;0;;0;;0;;0;3.5;w;3;4;4;3.5;3
+Poaceae;Anthoxanthum ;odoratum;;0;1;0;;0;;0;;0;;0;;0;;0;;0;3;NA;2;2;4;3.5;3
+Poaceae;Arrhenatherum;elatius;;0;0.5;0;;0;;0;;0;;0;;0;;0;;0;3;NA;3;4;3;4;3
+Asteraceae;Bellis;perennis;;0;;0;;0;;0;;0;;0;6;1;12;0;0.1;1;3;NA;4;3;4;3.5;3
+Poaceae;Bromus;erectus;2;0;1;0;5;0;;0;;0;;0;;0;;0;20;0;2;w;4;2;4;4;4
+Cyperaceae;Carex;caryophyllea;;0;;0;;0;;0;;0;1;0;;0;;0;;0;2.5;NA;3;2;4;3;4
+Asteraceae;Centaurea;nigrescens;;0;;0;;0;;0;;0;;0;10;0;9;0;;0;3;NA;3;3;4;4;4
+Asteraceae;Centaurea;jacea;2;0;1;0;0.8;0;;0;;0;;0;;0;;0;;0;2.5;NA;3;3;4;3;3
+Lamiaceae;Clinopodium;vulgare;;0;;0;;0;0.05;0;;0;0.1;0;;0;;0;;0;2.5;NA;4;2;3;4;3
+Poaceae;Dactylis;glomerata;2;0;0.5;0;;0;0.01;0;;0;;0;6;0;5;0;5;0;3;NA;3;4;4;4;3
+Apiaceae;Daucus;carota;;0;;0;;0;0.5;0;0.1;0;0.1;0;;0;;0;;0;2.5;NA;4;2;4;4;3
+Brassicaceae;Erophila;verna (aggr.);;0;;0;;0;;0;;0;;0;0.01;1;;0;0.01;1;2.5;NA;3;2;4;4;4
+Rubiaceae;Galium;anisophyllon;;0;;0;;0;;0;;0;;0;10;0;;0;3;0;2.5;NA;3;2;4;2;3
+Rubiaceae;Galium;album;;0;;0;;0;;0;;0;;0;;0;;0;5;0;3;w;3;4;3;3.5;3
+Rubiaceae;Galium;mollugo (aggr.);1.5;0;0.02;0;1.5;0;2;0;5;0;5;0;;0;;0;;0;3.5;w;3;4;3;3.5;2
+Lamiaceae;Glechoma;hederacea;;0;;0;;0;;0;;0;0.05;1;;0;;0;;0;3.5;w;4;3;3;3.5;3
+Poaceae;Helictotrichon;pubescens;2;0;;0;;0;0.05;0;0.05;0;0.5;0;2;0;10;0;0.5;0;2.5;NA;4;3;4;3;4
+Poaceae;Holcus;lanatus;;0;;0;;0;;0;0.1;0;;0;;0;;0;;0;3;w;3;3;4;3.5;3
+Hypericaceae;Hypericum;perforatum;;0;;0;;0;;0;0.1;0;;0;;0;;0;3;0;3;w;3;3;3;4;3
+Caprifoliaceae;Knautia;arvensis;4;0;3;1;1;1;10;1;0.5;0;1;0;;0;;0;;0;2.5;NA;3;3;4;3.5;4
+Asteraceae;Leontodon ;hispidus;1;0;;0;;0;;0;;0;;0;;0;;0;;0;2.5;w;4;3;4;3;3
+Asteraceae;Leucanthemum;vulgare;;0;;0;0.025;0;;0;4;0;;0;;0;;0;;0;3;NA;3;3;4;3.5;3
+Poaceae;Lolium;multiflorum;;0;;0;;0;;0;;0;;0;;0;;0;12;0;3.5;w+;3;4;4;4.5;2
+Fabaceae;Lotus;corniculatus;0.5;0;0.5;0;5;0;0.5;0;;0;;0;;0;;0;;0;2.5;NA;3;3;4;3;3
+Fabaceae;Medicago;lupulina;;0;0.5;0;0.02;0;;0;0.05;1;;0;;0;;0;;0;2;NA;4;3;3;4;3
+Plantaginaceae;Plantago;lanceolata;7;0;2;0;0.5;0;1;0;;0;0.1;0;20;0;30;0;7;1;2.5;w;3;3;4;3;3
+Plantaginaceae;Plantago;major;;0;;0;;0;;0;;0;;0;2;0;0.5;0;0.08;0;3;w+;3;4.5;4;3;3
+Poaceae;Poa;angustifola;;0;;0;;0;2;0;0.5;0;;0;;0;;0;;0;2;w;4;3;4;3;4
+Poaceae;Poa;pratensis;;0;;0;;0;0.5;0;;0;;0;;0;;0;;0;3.5;NA;3;4;4;3;3
+Rosaceae;Potentilla;sterilis;;0;;0;;0;2;0;0.5;0;25;0;;0;;0;;0;3;NA;3;3;3;3.5;2
+Rosaceae;Potentilla;reptans;;0;;0;;0;;0;;0;;0;;0;;0;2;0;3;w+;4;4;4;3.5;3
+Primulaceae;Primula ;veris;;0;;0;;0;0.5;0;;0;;0;;0;;0;;0;2.5;w+;4;2;4;3;4
+Ranunculaceae;Ranuculus;bulbosus;6;1;3;1;2;1;0.05;0;0.5;0;0.5;0;;0;;0;;0;2;NA;4;2;4;3;4
+Ranunculaceae;Ranunculus;acris aggr.;3;1;6;1;;0;1;1;1;1;;0;4;1;2;1;;0;3;w+;3;3;3;3;4
+Polygonaceae;Rumex;obtusifolius (c.f. );;0;;0;;0;0.5;0;;0;;0;;0;;0;;0;3;w;3;5;4;3.5;2
+Polygonaceae;Rumex;acetosa;;0;;0;;0;;0;;0;;0;;0;0.01;0;;0;3;w;3;4;4;3.5;3
+Lamiaceae;Salvia;pratensis;;0;;0;5;0;;0;;0;;0;30;0;10;0;6;0;2;NA;4;2;4;3.5;4
+Rosaceae;Sanguisorba;minor;10;1;2;1;6;1;0.05;0;;0;;0;;0;;0;;0;2;w;4;2;4;3.5;3
+Caryophyllaceae;Silene;dioica;;0;;0;;0;0.1;0;0.5;0;;0;;0;;0;;0;3.5;w;3;4;3;3;3
+Asteraceae;Taraxacum;officinale;;0;;0;;0;;0;;0;;0;2;1;7;1;4;1;3;NA;3;4;4;3;3
+Lamiaceae;Thymus;pulegioides;;0;;0;8;0;;0;;0;;0;;0;;0;;0;2;w;3;2;4;3;4
+Fabaceae;Trifolium;pratense;0.05;0;2;0;;0;0.5;0;0.05;0;0.5;0;10;0;4;1;1;0;3;NA;3;3;4;3.5;3
+Poaceae;Trisetum;flavescens;;0;0.02;0;0.01;0;;0;;0;;0;;0;;0;;0;3;NA;3;4;4;3;3
+Plantaginaceae;Veronica;chamaedrys;;0;;0;;0;0.5;1;2;1;0.5;1;;0;;0;;0;2.5;NA;4;3;3;3;3
+Plantaginaceae;Veronica;filiformis;;0;;0;;0;;0;;0;;0;0.02;1;0.1;0;;0;3.5;NA;3;4;4;4;2
+Plantaginaceae;Veronica;persica;5;0;0.05;0;0.05;0;;0;;0;;0;;0;;0;;0;3.5;w;3;4;4;4;3
+Fabaceae;Vicia;sativa;;0;;0;;0;1;0;0.5;1;0.5;0;;0;;0;;0;3;NA;4;3;4;4.5;3
+Fabaceae;Vicia;sepium;;0;1;0;;0;;0;;0;;0;;0;;0;;0;3;NA;3;3;3;3;3
