@@ -1,5 +1,7 @@
 # UMAN Gruppe 7 - Auswertung Zeigerwerte (FRN) gewichtet (Boxplot)
 
+setwd("E:\\Dokumente\\ZHAW\\ZHAW_Github\\Projektwoche-Umweltanalytik\\data")
+
 # Packages einlesen
 library(tidyverse)
 
@@ -50,7 +52,7 @@ F = DF %>%
     plot9 = sum(p9 * Feuchtezahl)/sum(p9),
   )
 
-#### Mean zusammenfügen ####
+#### Mean zusammenf?gen ####
 ZW = rbind(F,N,R)
 
 rownames(ZW) <- c("Feuchtezahl",
@@ -66,18 +68,18 @@ ZW_box = ZW%>%
 
 
 
-#### Column "Zeigerwert" einfügen ####
+#### Column "Zeigerwert" einf?gen ####
 Zeigerwert = c("Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl","Feuchtezahl",
                "Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl","Naehrstoffzahl",
                "Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl","Reaktionszahl")
 
 ZW_box$Zeigerwert = Zeigerwert
 
-#### Standort hinzufügen ####
+#### Standort hinzuf?gen ####
 
 plot = ZW_box$Plot #Vektor aus Dataframe "herauslesen"
 
-plot[plot == "plot1"] <- "Gemaehte Wiese"     # Werte des Vektors ändern
+plot[plot == "plot1"] <- "Gemaehte Wiese"     # Werte des Vektors ?ndern
 plot[plot == "plot2"] <- "Gemaehte Wiese"
 plot[plot == "plot3"] <- "Gemaehte Wiese"
 plot[plot == "plot4"] <- "Ungemaehte Wiese"
@@ -87,7 +89,7 @@ plot[plot == "plot7"] <- "Ruderalweg"
 plot[plot == "plot8"] <- "Ruderalweg"
 plot[plot == "plot9"] <- "Ruderalweg"
 
-ZW_box$Standort = plot # Vektor wieer in Dataframe einfügen
+ZW_box$Standort = plot # Vektor wieer in Dataframe einf?gen
 
 #### Mittelwerte der Zeigerwerte pro Standort ausrechnen ####
 
@@ -137,7 +139,7 @@ ZW_box%>%
   geom_boxplot(outlier.shape = NA)+
   geom_jitter(aes(col=Standort), width =0.2, height = 0, size = 3)+ #damit die Punkte nicht auf einem Huafen liegen
   theme_bw()+
-  scale_color_manual(values = c("Gemaehte Wiese" = "red", #Farben ändern
+  scale_color_manual(values = c("Gemaehte Wiese" = "red", #Farben ?ndern
                                 "Ungemaehte Wiese" = "yellow",
                                 "Ruderalweg" = "blue"))+
   ggtitle("Zeigerwerte")+
